@@ -1,4 +1,4 @@
-# doip-uds-lab
+# DoIP-UDS-Lab
 
 Banc de laboratoire Python pour expérimenter le diagnostic automobile moderne avec **UDS** (*Unified Diagnostic Services*, ISO 14229) transporté par **DoIP** (*Diagnostic over Internet Protocol*, ISO 13400-2).
 
